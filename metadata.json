@@ -1,0 +1,5 @@
+{
+  "name": "PWA Icon Generator",
+  "description": "Instantly convert images into required PWA icon formats (192x192 and 512x512 PNGs) with solid backgrounds for iOS compliance. No server upload required.",
+  "requestFramePermissions": []
+}
